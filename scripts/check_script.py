@@ -5,7 +5,8 @@ non-English script, or (with the days doc) any number not traceable to the Rippl
 import json, re, sys
 
 DISCLAIMER = "not investment advice"
-BANNED = re.compile(r"\b(buy|sell|accumulate|target price|stop[- ]loss|go long|go short)\b", re.I)
+BANNED = re.compile(r"\b(should|must|time to|recommend(?:ed|s)?|consider|worth a) (buy|sell|accumulate|book profits|exit)\b"
+                    r"|\btarget price\b|\bstop[- ]loss\b|\b(strong )?(buy|sell|accumulate) (call|rating|signal)\b|\bgo (long|short)\b", re.I)
 NUM = re.compile(r"(?<![\w.])\d[\d,]*(?:\.\d+)?")
 
 def nums(text):
