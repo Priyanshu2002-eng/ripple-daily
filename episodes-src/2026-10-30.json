@@ -1,0 +1,248 @@
+{
+ "date": "2026-10-30",
+ "episode": 1,
+ "title": "Fri 30 Oct: Sensex jumps 905 on tax-cut talk, but FIIs still sell",
+ "description": "Hot topic: the Sensex jumps 905 points on talk of a capital gains tax cut, but foreign investors were still sellers. Then: Trent, IndiGo, Alphabet's worst day and Indian IT, the rupee, oil and Iran, US inflation, PSU banks, Sun Pharma's results and Coal India.\n\n1. Sensex jumps 905 points as the Fed holds and talk of a capital gains tax cut draws buyers (HDFC Sky; 5paisa; ANI)\n2. Trent's Q2 profit rises 25% as Zudio passes 1,000 stores (Business Today; Upstox)\n3. IndiGo's Q2 loss narrows to Rs 1,879 crore as fares rise (Business Today; Upstox)\n4. Alphabet has its worst day ever on its first miss in four years (CappNotes; Tradingkey)\n5. Rupee firms to 95.25 as crude eases (PTI via Telangana Today)\n6. Oil slips as Washington reaches out to Iran (Reuters via Euronext)\n7. US PCE inflation runs at 3.6% as GDP beats (CappNotes; Yahoo Finance)\n8. PSU banks jump 2.2% and Kotak 4.3% (Yahoo Finance; Zee Business)\n9. Sun Pharma reports Q2 on Friday (results calendar)\n10. Coal India's Q2 profit jumps 53% (Upstox)\n\nFrom the Ripple news desk. Voices are AI-generated from the hosts' own recordings. This is news, not investment advice; the hosts are not SEBI-registered advisers.",
+ "lines": [
+  {
+   "speaker": "PRI",
+   "text": "Good morning, this is Ripple Daily. I'm Pri."
+  },
+  {
+   "speaker": "SU",
+   "text": "And I'm SU. Ten stories, under ten minutes."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Today's big one: the Sensex just had a 905 point day. But the foreigners didn't buy it."
+  },
+  {
+   "speaker": "PRI",
+   "text": "SU, Sensex up 905 points. What happened?"
+  },
+  {
+   "speaker": "SU",
+   "text": "The Sensex closed at 74,151, up 1.24%. The Nifty rose 1.05% to 22,937, and 39 of the 50 Nifty stocks were green."
+  },
+  {
+   "speaker": "PRI",
+   "text": "And the trigger?"
+  },
+  {
+   "speaker": "SU",
+   "text": "A report from ANI that the government is weighing a cut to the 12.5% long-term capital gains tax on equities."
+  },
+  {
+   "speaker": "SU",
+   "text": "That's the tax you pay on gains from shares held for over a year."
+  },
+  {
+   "speaker": "PRI",
+   "text": "So who led the rally?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Adani Ports, up 6.3%. Adani Enterprises, up 5.2%. And Kotak Bank, up 4.3%."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Okay, so everybody's buying. Including foreign investors?"
+  },
+  {
+   "speaker": "SU",
+   "text": "No, and that's the catch. Provisional data show FIIs were still net sellers, of 944 crore rupees. Domestic institutions bought 1,924 crore."
+  },
+  {
+   "speaker": "PRI",
+   "text": "So it's a local rally."
+  },
+  {
+   "speaker": "SU",
+   "text": "Now, why it matters. A tax-cut rally that foreign money didn't join is fragile. And overnight, Alphabet, Amazon and Intel all sold off in the US."
+  },
+  {
+   "speaker": "PRI",
+   "text": "So what's the one level to watch?"
+  },
+  {
+   "speaker": "SU",
+   "text": "22,900 on the Nifty. If domestic buyers hold it against a weak Nasdaq, the rally has legs. If not, it was just talk."
+  },
+  {
+   "speaker": "PRI",
+   "text": "And the stocks?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Stocks in focus: Adani Ports, Adani Enterprises, Kotak Bank, and BSE, the exchange most exposed to a tax cut lifting volumes. Sentiment: positive, but fragile."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Rapid fire. Story two: Trent, and Zudio crosses 1,000 stores."
+  },
+  {
+   "speaker": "SU",
+   "text": "Trent's revenue rose 21.9% to 5,873 crore rupees. EBITDA rose 29.6% to 1,054 crore, well above the 896 crore estimate."
+  },
+  {
+   "speaker": "PRI",
+   "text": "And there's a leadership change too, right?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Yes. Noel Tata retires as chairman on 11 November, and Bahram Vakil takes over the next day."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: an 18% margin tests whether the market re-rates a stock that lagged on slowing growth. Sentiment: positive. Stocks in focus: Trent, DMart."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story three: IndiGo is still losing money, but less."
+  },
+  {
+   "speaker": "SU",
+   "text": "The Q2 loss narrowed to 1,879 crore rupees, better than the 2,063 crore consensus. Revenue rose 25.9%."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Still a loss though. Third quarter in a row?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Third straight quarterly loss. But a smaller one than the Street feared."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: fares are carrying the airline, but forex losses hit 1,333 crore as the rupee slid. Sentiment: mixed. Stock in focus: IndiGo."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story four: Google's worst day ever."
+  },
+  {
+   "speaker": "SU",
+   "text": "Alphabet fell 12.6% after its first miss in four years, and free cash flow went negative, minus 9.07 billion dollars. The Nasdaq dropped 1.38%."
+  },
+  {
+   "speaker": "PRI",
+   "text": "And it wasn't just Google?"
+  },
+  {
+   "speaker": "SU",
+   "text": "No. After the bell, Amazon fell more than 7% on an EPS miss, and Intel fell about 15% on weak guidance."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: a Big Tech rout on AI spending hits Indian IT, which already trades on AI fears. Sentiment: negative. Stocks in focus: Infosys, TCS, HCLTech, Wipro."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story five: the rupee gets a little breathing room."
+  },
+  {
+   "speaker": "SU",
+   "text": "The rupee closed 3 paise firmer at 95.25 per dollar. Overnight, the dollar index fell 0.31%, and US 10-year yields slipped below 5%."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: relief, but continued FII selling keeps it near record lows. Sentiment: mixed. Stocks in focus: IndiGo, BPCL."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story six: oil, and a possible deal with Iran."
+  },
+  {
+   "speaker": "SU",
+   "text": "Brent settled at 114.88 dollars, down 0.38%. Iranian state media said Hormuz could reopen within four to five days if the US lifts its blockade."
+  },
+  {
+   "speaker": "PRI",
+   "text": "But Washington isn't exactly calm either."
+  },
+  {
+   "speaker": "SU",
+   "text": "Right. President Trump did not rule out fresh strikes after the 3 November midterms. So oil stays on edge."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: oil above 110 is India's biggest macro pressure point. Sentiment: mixed. Stocks in focus: ONGC, BPCL, HPCL."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story seven: US inflation is still hot."
+  },
+  {
+   "speaker": "SU",
+   "text": "US PCE inflation ran at 3.6% a year, and GDP grew 3.4% against a 3.1% estimate."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Yet bond yields fell?"
+  },
+  {
+   "speaker": "SU",
+   "text": "They did. The 10-year fell to 4.989%, as the Big Tech sell-off pushed money into bonds."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: it keeps a December Fed hike in play, which caps foreign appetite for India. Sentiment: negative."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story eight: banks lead the charge."
+  },
+  {
+   "speaker": "SU",
+   "text": "Nifty Bank rose 1.18% to 54,910. The PSU bank index gained 2.2%, and Kotak jumped 4.3%."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: Bank of Baroda reports today, the first read on how the RBI's October hike is hitting PSU lenders. Sentiment: positive. Stocks in focus: Kotak Bank, SBI, Bank of Baroda."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story nine: Sun Pharma reports today."
+  },
+  {
+   "speaker": "SU",
+   "text": "Sun Pharma's Q2 is out today, alongside Indian Oil, GAIL, BEL and Dixon. The stock closed near 1,761 rupees."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: specialty drugs are the test of whether Indian pharma can grow through US price erosion. Sentiment: neutral. Stocks in focus: Sun Pharma, Dr Reddy's, Cipla."
+  },
+  {
+   "speaker": "PRI",
+   "text": "And story ten: Coal India pays up."
+  },
+  {
+   "speaker": "SU",
+   "text": "Profit jumped 53% to 6,516 crore rupees, above the 6,418 crore poll. Plus a 10.25 rupee dividend, record date 4 November."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Any catch?"
+  },
+  {
+   "speaker": "SU",
+   "text": "EBITDA missed estimates. But revenue grew 21% to 44,179 crore rupees."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: a profit beat and a fat payout support PSU dividend stocks. Sentiment: positive. Stocks in focus: Coal India, NTPC."
+  },
+  {
+   "speaker": "PRI",
+   "text": "What to watch today: does the Nifty hold 22,900 against a weak Nasdaq, and what do Bank of Baroda and Sun Pharma report?"
+  },
+  {
+   "speaker": "SU",
+   "text": "That's Ripple Daily. Full stories and sources are in the show notes. This is news, not investment advice. We're not SEBI-registered advisers."
+  },
+  {
+   "speaker": "PRI",
+   "text": "See you tomorrow morning."
+  }
+ ]
+}
