@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+<channel>
+  <title>Ripple Daily</title>
+  <link>https://priyanshu2002-eng.github.io/ripple-daily/</link>
+  <atom:link href="https://priyanshu2002-eng.github.io/ripple-daily/feed.xml" rel="self" type="application/rss+xml"/>
+  <language>en-in</language>
+  <description>Ripple Daily is a 7-10 minute morning briefing on the 10 stories moving Indian markets, from the Ripple news desk. Two hosts, SU and Pri: one hot topic in depth, then nine stories rapid-fire, each ending with the stocks in focus. In English, every day before the market opens. Voices are AI-generated from the hosts' own recordings. This is news, not investment advice; the hosts are not SEBI-registered advisers.</description>
+  <itunes:subtitle>India's markets in under 10 minutes, every morning</itunes:subtitle>
+  <itunes:summary>Ripple Daily is a 7-10 minute morning briefing on the 10 stories moving Indian markets, from the Ripple news desk. Two hosts, SU and Pri: one hot topic in depth, then nine stories rapid-fire, each ending with the stocks in focus. In English, every day before the market opens. Voices are AI-generated from the hosts' own recordings. This is news, not investment advice; the hosts are not SEBI-registered advisers.</itunes:summary>
+  <itunes:author>Priyanshu Chandak</itunes:author>
+  <itunes:owner>
+    <itunes:name>Priyanshu Chandak</itunes:name>
+    <itunes:email>priyanshuchandak23@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://priyanshu2002-eng.github.io/ripple-daily/cover.jpg"/>
+  <image><url>https://priyanshu2002-eng.github.io/ripple-daily/cover.jpg</url><title>Ripple Daily</title><link>https://priyanshu2002-eng.github.io/ripple-daily/</link></image>
+  <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <podcast:locked>no</podcast:locked>
+
+</channel>
+</rss>
