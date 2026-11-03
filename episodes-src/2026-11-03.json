@@ -1,0 +1,268 @@
+{
+ "date": "2026-11-03",
+ "episode": 1,
+ "title": "Tue 3 Nov: Nifty's third straight gain meets election-day jitters",
+ "description": "Hot topic: the Nifty jumped 1.7% for a third straight gain on Reliance's record profit and a Brent slump, but a Korean chip sell-off and US election day point to a flat start. Then: Reliance, oil, SBI, ITC, Infosys, the US midterms, the rupee, Dixon and IndiGo.\n\n1. Nifty jumps 1.7% to 23,441 for a third straight gain as Reliance soars 11.6% (HDFC Sky / IIFL Securities)\n2. Reliance's record 29,550 crore rupee profit sends the stock up 11.6% (HDFC Sky / IIFL Securities)\n3. Brent falls 7.6% to 104.77 dollars as Iran peace-talk hopes grow (Nation Thailand / Reuters)\n4. SBI reports Q2 today; analysts see profit from flat to up 25% (Business Standard / Trade Brains)\n5. ITC's Q2 profit falls 20% to 4,137 crore rupees, in line with estimates (IndiaIPO / Upstox)\n6. Infosys goes ex-dividend for its 26 rupee interim payout (TradingView / Moody's; Yahoo Finance)\n7. Americans vote in the midterms with the 10-year Treasury yield near 4.89% (Yahoo Finance / Bloomberg; StockTitan)\n8. Rupee slips 10 paise to 94.86 despite cheaper oil (HDFC Sky / PTI)\n9. Dixon soars 12% as 47% revenue growth outweighs a 45% profit fall (Kotak Neo)\n10. IndiGo trails the rally even as Brent slides (Yahoo Finance / Nation Thailand)\n\nFrom the Ripple news desk. Voices are AI-generated from the hosts' own recordings. This is news, not investment advice; the hosts are not SEBI-registered advisers.",
+ "lines": [
+  {
+   "speaker": "PRI",
+   "text": "Good morning, this is Ripple Daily. I'm Pri."
+  },
+  {
+   "speaker": "SU",
+   "text": "And I'm SU. Ten stories, under ten minutes."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Today's big one: the Nifty's third straight gain runs into weak chip stocks, on US election day."
+  },
+  {
+   "speaker": "PRI",
+   "text": "SU, start with Monday. What happened?"
+  },
+  {
+   "speaker": "SU",
+   "text": "A big rally. The Nifty closed at 23,440.80, up 387.70 points or 1.68%. The Sensex rose 1.66% to 75,692.78."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Was it broad, or just a few names?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Broad. 2,668 NSE stocks rose and 1,469 fell. But Reliance did the heavy lifting, jumping 11.6% on a record profit."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Who else moved?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Oil helped. Brent then settled 7.6% lower at 104.77 dollars, on hopes of Iran peace talks. Infosys and IT lagged as the Nasdaq slipped."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Okay, one stock and one commodity. Is that a real rally?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Now, why it matters. A rally led by one heavyweight and cheaper oil is fragile, and global tech cues turned weak overnight."
+  },
+  {
+   "speaker": "SU",
+   "text": "The Nasdaq fell 1.1%, and Korea's Kospi opened 3.6% lower on chip selling. GIFT Nifty points to a flat start near 23,400."
+  },
+  {
+   "speaker": "PRI",
+   "text": "So what's the trigger to watch?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Whether the Nifty holds 23,300 despite weak Asian chips. A deep tech sell-off that drags it back below 23,200 would undo the move."
+  },
+  {
+   "speaker": "PRI",
+   "text": "And the stocks?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Stocks in focus: Reliance, HDFC Bank, ICICI Bank and Infosys. Sentiment: mixed."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Rapid fire. Story two: Reliance posts a record profit, and the stock flies."
+  },
+  {
+   "speaker": "SU",
+   "text": "September-quarter profit rose 40.6% to a record 29,550 crore rupees, led by a 68% jump in refining earnings. The stock closed up 11.6%."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Any weak spot?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Retail profit fell 24.3%. And Brent's further fall trims the windfall-margin case, though brokerages stayed positive."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: after a move several times its normal range, day two shows whether funds keep chasing it. Sentiment: positive. Stocks in focus: Reliance, IOC, BPCL, Hindustan Petroleum."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story three: oil drops below 105 dollars on peace-talk hopes."
+  },
+  {
+   "speaker": "SU",
+   "text": "Brent settled at 104.77 dollars, down 8.66 dollars or 7.6%. WTI fell 7.4% to 96.46, its first close below 100 dollars in weeks."
+  },
+  {
+   "speaker": "PRI",
+   "text": "What changed?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Iran's president said the Supreme Leader gave his government authority for peace talks, and President Trump said a deal could happen."
+  },
+  {
+   "speaker": "SU",
+   "text": "Analysts at Raymond James and UBS warned of earlier false dawns, and prices stay very sensitive to Middle East headlines."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: cheaper oil eases India's import bill, inflation and the rupee. Sentiment: positive. Stocks in focus: BPCL, IOC, IndiGo, ONGC."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story four: SBI reports results today. What's the range?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Wide. Brokerages see profit anywhere from flat, at Kotak, to about 25% growth, at Motilal Oswal. Net interest income is seen up 11 to 13%."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Anything that could flatter the number?"
+  },
+  {
+   "speaker": "SU",
+   "text": "One-off gains from stake sales in SBI Funds and NSE. And Bank of Baroda's 36% profit jump last week set a high bar."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: SBI is the largest PSU-bank weight, so its margins and asset quality set the group's tone. Sentiment: neutral. Stocks in focus: SBI, Bank of Baroda, BSE."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story five: ITC's profit falls 20%. Was that a shock?"
+  },
+  {
+   "speaker": "SU",
+   "text": "No, it was close to estimates. Net profit fell 20.1% to 4,137 crore rupees, while revenue excluding excise rose 1.8% to 18,401 crore."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Where's the pain?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Margins. EBITDA fell 17.5%, and margins dropped 660 basis points to 28%. The stock closed near 264.55 rupees, close to its 52-week low."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: an in-line print tests whether the cigarette-tax shock is fully priced in. Sentiment: mixed. Stocks in focus: ITC, Hindustan Unilever, Godfrey Phillips."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story six: Infosys goes ex-dividend today. Expect a dip?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Mechanically, yes. Today is the record date for its 26 rupee interim dividend, so the price should drop by about 26 rupees, roughly 2.2%."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Anything else weighing on it?"
+  },
+  {
+   "speaker": "SU",
+   "text": "It closed Monday at 1,161 rupees, down 2%. Overnight the Nasdaq fell another 1.1% and Nvidia slipped 1.3%."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: a mechanical drop meets weak global tech cues for India's second-largest IT stock. Sentiment: negative. Stocks in focus: Infosys, TCS, HCLTech."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story seven: America votes in the midterms today. Why should India care?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Results come after the US close. The 10-year Treasury yield ended Monday near 4.89%, down about 3.5 basis points, its lowest since 10 September."
+  },
+  {
+   "speaker": "PRI",
+   "text": "What comes after the vote?"
+  },
+  {
+   "speaker": "SU",
+   "text": "The October jobs report on Friday, with economists expecting about 55,000 new jobs."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: the result shapes the US fiscal path and long-term yields, which drive global capital flows to India. Sentiment: neutral."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story eight: the rupee slipped, even with oil falling."
+  },
+  {
+   "speaker": "SU",
+   "text": "The rupee closed at a provisional 94.86 per dollar, 10 paise weaker, even as Brent fell and Indian stocks rallied."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Why didn't it gain?"
+  },
+  {
+   "speaker": "SU",
+   "text": "It suggests the RBI is holding the pair in a tight range. Brent's slide and a softer dollar index near 101.8 now support the rupee."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: oil is India's biggest import, so a 9 dollar fall in Brent is the rupee's strongest support in weeks. Sentiment: mixed."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story nine: Dixon's profit falls 45%, and the stock jumps 12%. Explain."
+  },
+  {
+   "speaker": "SU",
+   "text": "Revenue rose 47%, and investors cared more about that than the fall in profit, to 411 crore rupees. The stock closed at 12,319 rupees."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Will it hold?"
+  },
+  {
+   "speaker": "SU",
+   "text": "The test is Korea. Samsung and SK Hynix fell about 5% overnight in a chip and electronics sell-off."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: Dixon is a bellwether for India's electronics push, testing appetite for growth over margins. Sentiment: mixed. Stocks in focus: Dixon, Kaynes, Amber Enterprises."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Last one. Story ten: IndiGo lags, despite cheaper oil."
+  },
+  {
+   "speaker": "SU",
+   "text": "IndiGo closed Monday at 4,919.90 rupees, up 0.9%, behind the Nifty's 1.7% gain. It had jumped 4.3% on Friday on a narrower quarterly loss."
+  },
+  {
+   "speaker": "PRI",
+   "text": "And oil since then?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Brent fell a further 3.5% after the Indian close, extending the fuel-cost relief."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: fuel is about a third of an airline's costs, so oil moves feed straight into margins. Sentiment: positive. Stocks in focus: IndiGo."
+  },
+  {
+   "speaker": "PRI",
+   "text": "What to watch today: SBI's results, whether the Nifty holds 23,300, and the US vote count tonight."
+  },
+  {
+   "speaker": "SU",
+   "text": "That's Ripple Daily. Full stories and sources are in the show notes. This is news, not investment advice. We're not SEBI-registered advisers."
+  },
+  {
+   "speaker": "PRI",
+   "text": "See you tomorrow morning."
+  }
+ ]
+}
