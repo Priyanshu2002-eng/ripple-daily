@@ -1,0 +1,256 @@
+{
+ "date": "2026-11-04",
+ "episode": 1,
+ "title": "Wed 4 Nov: Nifty's fourth straight gain as foreign buyers return",
+ "description": "Hot topic: the Nifty rose 1.6% for a fourth straight gain as foreign investors bought the most shares in a year, but US futures slipped on midterm results. Then: oil, the US vote, the rupee, SBI, Asian Paints, AMD, Airtel, gold and FMCG.\n\n1. Nifty rises 1.6% to 23,811 for a fourth straight gain as FMCG and private banks lead (IIFL Securities / Business Standard; Reuters via Yahoo Finance)\n2. Brent settles 1.1% lower at 103.60 dollars despite a US strike on Iran's Qeshm Island (Stock Titan / Reuters via Yahoo Finance)\n3. US midterm results arrive; Democrats favoured to win the House, Senate close (Reuters via Yahoo Finance)\n4. Rupee gains 13 paise to 94.71 as foreign buyers return (PTI via HDFC Sky / Business Standard)\n5. SBI's profit rises 14% to 23,038 crore rupees on one-off gains, but the stock falls 1.7% (IIFL Securities)\n6. Asian Paints jumps 4% as cheaper crude eases raw-material costs (IIFL Securities / Stock Titan)\n7. Indian IT weighs AMD's 45% revenue jump and Apple's margin warning (AMD 8-K, SEC / Stock Titan; Reuters via Yahoo Finance)\n8. Bharti Airtel climbs 3.8% two days before its results (IIFL Securities / Business Standard)\n9. Gold slips 0.8% to about 3,939 dollars as yields rise (Vista Partners / Reuters via Yahoo Finance)\n10. FMCG leads the market as Nestle, Tata Consumer and ITC rally (IIFL Securities / Business Standard)\n\nFrom the Ripple news desk. Voices are AI-generated from the hosts' own recordings. This is news, not investment advice; the hosts are not SEBI-registered advisers.",
+ "lines": [
+  {
+   "speaker": "PRI",
+   "text": "Good morning, this is Ripple Daily. I'm Pri."
+  },
+  {
+   "speaker": "SU",
+   "text": "And I'm SU. Ten stories, under ten minutes."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Today's big one: the Nifty's fourth straight gain, powered by the biggest foreign buying in a year."
+  },
+  {
+   "speaker": "PRI",
+   "text": "SU, what happened on Tuesday?"
+  },
+  {
+   "speaker": "SU",
+   "text": "The Nifty closed at 23,810.85, up 1.58%. The Sensex rose 1.62% to 76,917.85. That's more than 4% in four sessions."
+  },
+  {
+   "speaker": "SU",
+   "text": "And the fuel: FIIs bought 6,837 crore rupees of shares, the most in a single day since October 2025. DIIs sold 3,679 crore."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Who moved the index?"
+  },
+  {
+   "speaker": "SU",
+   "text": "FMCG led, up 3.65%, then realty at 2.33% and private banks at 1.98%. HDFC Bank rose 3.6%. BSE was the top Nifty gainer, up 5%."
+  },
+  {
+   "speaker": "SU",
+   "text": "Only PSU banks, down 1.27%, and metals, down 0.14%, fell."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Four days, 4%. Isn't this rally getting tired?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Now, why it matters. Foreign money is back in size, partly on bets of a long-term capital-gains tax cut. But the hourly RSI is above 80, which is overbought."
+  },
+  {
+   "speaker": "SU",
+   "text": "And overnight cues are softer. S&P 500 futures slipped 0.5% and Nasdaq futures 0.9% as US midterm results came in."
+  },
+  {
+   "speaker": "PRI",
+   "text": "So what's the trigger to watch?"
+  },
+  {
+   "speaker": "SU",
+   "text": "5paisa flags the 24,000 zone as the next resistance and about 23,480 as support. Foreign buying continuing is the key."
+  },
+  {
+   "speaker": "SU",
+   "text": "Stocks in focus: HDFC Bank, ICICI Bank, Nestle India and BSE. Sentiment: positive, with caution on the open."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Rapid fire. Story two: oil whipsaws on a US strike in Iran."
+  },
+  {
+   "speaker": "SU",
+   "text": "Brent traded as high as about 105.7 dollars after reports of US strikes on Iran's Qeshm Island, but settled 1.12% lower at 103.60 dollars."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Why did it fall, after a strike?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Traders weighed Qatar-mediated talks. Reuters calls oil near a four-week low, with WTI near 95.6 dollars in Asian trade."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: oil near 100 to 106 dollars instead of 115 eases India's import bill, the rupee and inflation. Sentiment: positive. Stocks in focus: BPCL, IOC, ONGC, IndiGo."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story three: America's midterm results are coming in. Why should I care?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Democrat Jon Ossoff won re-election in Georgia and Mark Warner held Virginia. Reuters says Democrats are favoured to win the House."
+  },
+  {
+   "speaker": "SU",
+   "text": "The Senate is close, with at least nine competitive races. Democrats need a net gain of four seats."
+  },
+  {
+   "speaker": "PRI",
+   "text": "And the bond market?"
+  },
+  {
+   "speaker": "SU",
+   "text": "The US 10-year yield closed about 4.95%, up about 5.8 basis points after a strong JOLTS jobs-openings report."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: control of Congress shapes US spending room, which feeds Treasury yields and money flows into India. Sentiment: mixed."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story four: the rupee finally gets some help."
+  },
+  {
+   "speaker": "SU",
+   "text": "The rupee settled at a provisional 94.71 per dollar, 13 paise firmer than Monday's 94.84, after touching 94.60."
+  },
+  {
+   "speaker": "PRI",
+   "text": "What's driving it?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Foreign buying and a softer dollar. Mirae Asset Sharekhan expects a range of 94.40 to 95."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: a firmer rupee lowers India's oil import bill, but trims rupee revenue for IT exporters. Sentiment: positive. Stocks in focus: Infosys, TCS."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story five: SBI's profit rose 14%, and the stock fell. Explain."
+  },
+  {
+   "speaker": "SU",
+   "text": "Standalone profit rose 14.3% to 23,038 crore rupees. But exceptional gains were 7,289 crore, and operating profit fell 1.4%."
+  },
+  {
+   "speaker": "SU",
+   "text": "The stock slid from about 1,006 rupees to close at 970.25, down 1.7%. Nifty PSU Bank fell 1.27%."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: the market now judges state-run banks on core earnings, not stake-sale gains. Sentiment: negative. Stocks in focus: SBI, Bank of Baroda, PNB, Canara Bank."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story six: Asian Paints jumps 4%, without new results."
+  },
+  {
+   "speaker": "SU",
+   "text": "It rose 3.99% to 2,437.80 rupees, among the top five Nifty gainers, as cheaper crude eased worries about its petroleum-based inputs."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Wasn't the last quarter weak?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Yes. Profit grew 8% to 1,068 crore rupees and missed estimates. This move is about oil, not earnings."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: crude is a large share of paint makers' raw-material costs, so oil swings the whole sector. Sentiment: positive. Stocks in focus: Asian Paints, Berger Paints, Kansai Nerolac."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story seven: AMD's numbers are huge. Good news for Indian IT?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Revenue rose 45% to 13.4 billion dollars, with data-centre sales up 97% to 8.5 billion. It guided about 17 billion dollars next quarter."
+  },
+  {
+   "speaker": "SU",
+   "text": "Apple fell 1.9% on a weaker margin outlook. Nifty IT gained just 0.34% on Tuesday."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: strong AI chip demand helps hardware, but lately reads as a threat to IT services' traditional work. Sentiment: mixed. Stocks in focus: Infosys, TCS, HCLTech, Wipro."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story eight: Airtel rallies two days before results."
+  },
+  {
+   "speaker": "SU",
+   "text": "Bharti Airtel rose 3.77% to 2,065 rupees, adding about 46,900 crore rupees of market value."
+  },
+  {
+   "speaker": "SU",
+   "text": "With HDFC Bank and ICICI Bank, it made up nearly half the Nifty's 2.4 trillion rupee market-cap gain."
+  },
+  {
+   "speaker": "PRI",
+   "text": "What's the number to watch Thursday?"
+  },
+  {
+   "speaker": "SU",
+   "text": "ARPU, against Jio's 218.8 rupees. Airtel reports on 5 November."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: Airtel is the Nifty's second-largest stock, so its results day moves the index. Sentiment: positive. Stocks in focus: Bharti Airtel, Indus Towers, Vodafone Idea."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story nine: gold slips as yields climb."
+  },
+  {
+   "speaker": "SU",
+   "text": "COMEX gold settled at about 3,938.70 dollars, down 30.90 dollars or 0.78%, as Treasury yields rose after the JOLTS report."
+  },
+  {
+   "speaker": "SU",
+   "text": "It had rebounded from a one-year low on Monday, after a 6.8% fall in October."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: gold prices drive jewellers' inventory gains and India's import bill. Sentiment: mixed. Stocks in focus: Titan, Kalyan Jewellers."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Last one. Story ten: FMCG has its best day in weeks."
+  },
+  {
+   "speaker": "SU",
+   "text": "Nifty FMCG rose 3.65%. Nestle India gained 4.47%, Tata Consumer 4.29% and ITC 2.82%. Marico jumped about 10% after its results."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Is this the start of a trend?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Not everyone thinks so. Motilal Oswal's Siddhartha Khemka still rates FMCG neutral to underweight, citing cost pressures and weak rural demand."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: the rotation into staples shows where money moves as oil eases, ahead of Diwali. Sentiment: positive. Stocks in focus: ITC, Nestle India, Tata Consumer, Marico."
+  },
+  {
+   "speaker": "PRI",
+   "text": "What to watch today: whether the Nifty holds 23,480 or tests 24,000, the US Senate count, and Brent around 105 dollars."
+  },
+  {
+   "speaker": "SU",
+   "text": "That's Ripple Daily. Full stories and sources are in the show notes. This is news, not investment advice. We're not SEBI-registered advisers."
+  },
+  {
+   "speaker": "PRI",
+   "text": "See you tomorrow morning."
+  }
+ ]
+}
