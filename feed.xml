@@ -5,9 +5,9 @@
   <link>https://priyanshu2002-eng.github.io/ripple-daily/</link>
   <atom:link href="https://priyanshu2002-eng.github.io/ripple-daily/feed.xml" rel="self" type="application/rss+xml"/>
   <language>en-in</language>
-  <description>Ripple Daily is a 7-10 minute morning briefing on the 10 stories moving Indian markets, from the Ripple news desk. Two hosts, SU and Pri: one hot topic in depth, then nine stories rapid-fire, each ending with the stocks in focus. In English, every day before the market opens. Voices are AI-generated from the hosts' own recordings. This is news, not investment advice; the hosts are not SEBI-registered advisers.</description>
+  <description>Ripple Daily is a 7-10 minute morning briefing on the 10 stories moving Indian markets, from the Ripple news desk. Two hosts, SU and Pri: one hot topic in depth, then nine stories rapid-fire, each ending with the stocks in focus. In English, every day before the market opens. Voices are AI-generated with open-source Kokoro voices. This is news, not investment advice; the hosts are not SEBI-registered advisers.</description>
   <itunes:subtitle>India's markets in under 10 minutes, every morning</itunes:subtitle>
-  <itunes:summary>Ripple Daily is a 7-10 minute morning briefing on the 10 stories moving Indian markets, from the Ripple news desk. Two hosts, SU and Pri: one hot topic in depth, then nine stories rapid-fire, each ending with the stocks in focus. In English, every day before the market opens. Voices are AI-generated from the hosts' own recordings. This is news, not investment advice; the hosts are not SEBI-registered advisers.</itunes:summary>
+  <itunes:summary>Ripple Daily is a 7-10 minute morning briefing on the 10 stories moving Indian markets, from the Ripple news desk. Two hosts, SU and Pri: one hot topic in depth, then nine stories rapid-fire, each ending with the stocks in focus. In English, every day before the market opens. Voices are AI-generated with open-source Kokoro voices. This is news, not investment advice; the hosts are not SEBI-registered advisers.</itunes:summary>
   <itunes:author>Priyanshu Chandak</itunes:author>
   <itunes:owner>
     <itunes:name>Priyanshu Chandak</itunes:name>
@@ -19,6 +19,29 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <podcast:locked>no</podcast:locked>
+  <item>
+    <title>Thu 5 Nov: Nifty's fifth straight gain as Democrats win Congress</title>
+    <description>Hot topic: the Nifty rose for a fifth straight day to a two-month closing high as Democrats swept Congress, and GIFT Nifty points to a gap-up. Then: IT, the rupee, oil, US yields, Airtel, Titan, HDFC Bank, ONGC and Dabur.
 
+1. Nifty gains for a fifth day to a two-month closing high of 23,961 as Democrats win Congress (Upstox; HDFC Sky; Kotak Neo)
+2. IT stocks fall 1.5% as investors weigh what a Democratic Congress means for AI spending (Upstox; Yahoo Finance (Investopedia); TradingKey)
+3. Rupee firms for a fourth day to 94.64 as the dollar slips after the US midterms (HDFC Sky; CappNotes; 5paisa)
+4. Brent settles 8.7% lower at 94.62 dollars as the Democratic sweep trims the war premium (Rigzone (Bloomberg); Al Jazeera)
+5. US 10-year Treasury yield falls about 6 bp to 4.89% as Democrats sweep Congress (CappNotes; Finwire; Seeking Alpha)
+6. Bharti Airtel reports September-quarter results; brokerages expect 14-15% revenue growth and ARPU near 268 rupees (Business Standard)
+7. Titan jumps 4.2% ahead of Dhanteras and its September-quarter results on 5 Nov (Upstox; Kotak Neo; Bloomingbit (Reuters))
+8. HDFC Bank extends its run as foreign buying lifts private lenders (5paisa; Liquide; Yahoo Finance)
+9. ONGC's board meets on 5 Nov for results and an interim dividend as Brent slides (PSU Connect; Rigzone (Bloomberg); Dimsum Daily)
+10. Dabur's profit rises 12% to 506 crore rupees on 5.5% volume growth, but margins slip (Business Today)
+
+From the Ripple news desk. Voices are AI-generated with open-source Kokoro voices. This is news, not investment advice; the hosts are not SEBI-registered advisers.</description>
+    <enclosure url="https://priyanshu2002-eng.github.io/ripple-daily/episodes/ripple-daily-2026-11-05.mp3" length="4511386" type="audio/mpeg"/>
+    <guid isPermaLink="false">ripple-daily-2026-11-05</guid>
+    <pubDate>Thu, 05 Nov 2026 08:30:00 +0530</pubDate>
+    <itunes:duration>564</itunes:duration>
+    <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
