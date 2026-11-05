@@ -6,11 +6,11 @@
  "lines": [
   {
    "speaker": "PRI",
-   "text": "Good morning, this is Ripple Daily. I'm Pri."
+   "text": "Good morning, this is Ripple Daily. I'm P."
   },
   {
    "speaker": "SU",
-   "text": "And I'm SU. Ten stories, under ten minutes."
+   "text": "And I'm S. Ten stories, under ten minutes."
   },
   {
    "speaker": "PRI",
@@ -18,7 +18,7 @@
   },
   {
    "speaker": "PRI",
-   "text": "SU, start with Friday. What happened?"
+   "text": "S, start with Friday. What happened?"
   },
   {
    "speaker": "SU",

@@ -154,6 +154,10 @@ def main(src):
     ep["description"] = re.sub(r"Voices are AI-generated[^.]*\.", note, ep["description"])
     srcs = sorted(f[:-5] for f in os.listdir(os.path.join(ROOT, "episodes-src")) if f.endswith(".json"))
     if date in srcs: ep["episode"] = srcs.index(date) + 1
+    # On-air host names are S and P (speaker codes stay SU / PRI).
+    rename = lambda t: re.sub(r"\bPri\b", "P", re.sub(r"\bSU\b", "S", t))
+    for ln in ep["lines"]: ln["text"] = rename(ln["text"])
+    ep["description"] = rename(ep["description"])
     out = os.path.join(ROOT, "episodes", f"ripple-daily-{date}.mp3")
     kokoro = CFG["tts"].get("engine") == "kokoro"
     if not kokoro:

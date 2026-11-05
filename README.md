@@ -1,8 +1,8 @@
 # Ripple Daily
 
-Daily AI-voiced podcast of Ripple's top 10 India market stories (SU × Pri, 7–10 min, English).
+Daily AI-voiced podcast of Ripple's top 10 India market stories (hosts S × P, 7–10 min, English).
 
-**Flow:** the scheduled "Ripple Daily podcast" task (8:07 IST) writes `episodes-src/<date>.json` from the Ripple Feed and pushes it here → the **Build episode** action checks the script, voices it with ElevenLabs Text to Dialogue (free, open-source Kokoro voices: SU = af_heart, PRI = am_michael; set tts.engine to "elevenlabs" in config.json to switch back to Hope + Mark), masters the MP3, and updates `feed.xml` → GitHub Pages serves the feed → Spotify picks up the new episode.
+**Flow:** the scheduled "Ripple Daily podcast" task (8:07 IST) writes `episodes-src/<date>.json` from the Ripple Feed and pushes it here → the **Build episode** action checks the script, voices it with ElevenLabs Text to Dialogue (free, open-source Kokoro voices: S = af_heart, P = am_michael; speaker codes stay SU/PRI; set tts.engine to "elevenlabs" in config.json to switch back to Hope + Mark), masters the MP3, and updates `feed.xml` → GitHub Pages serves the feed → Spotify picks up the new episode.
 
 - `config.json`: show metadata and voice IDs (not secret).
 - Secret `ELEVENLABS_API_KEY`: only needed if tts.engine is "elevenlabs" (repo Settings → Secrets and variables → Actions).
