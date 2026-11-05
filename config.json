@@ -2,7 +2,7 @@
   "show": {
     "title": "Ripple Daily",
     "subtitle": "India's markets in under 10 minutes, every morning",
-    "description": "Ripple Daily is a 7-10 minute morning briefing on the 10 stories moving Indian markets, from the Ripple news desk. Two hosts, SU and Pri: one hot topic in depth, then nine stories rapid-fire, each ending with the stocks in focus. In English, every day before the market opens. Voices are AI-generated (ElevenLabs library voices Hope and Mark). This is news, not investment advice; the hosts are not SEBI-registered advisers.",
+    "description": "Ripple Daily is a 7-10 minute morning briefing on the 10 stories moving Indian markets, from the Ripple news desk. Two hosts, SU and Pri: one hot topic in depth, then nine stories rapid-fire, each ending with the stocks in focus. In English, every day before the market opens. Voices are AI-generated with open-source Kokoro voices. This is news, not investment advice; the hosts are not SEBI-registered advisers.",
     "author": "Priyanshu Chandak",
     "owner_name": "Priyanshu Chandak",
     "owner_email": "priyanshuchandak23@gmail.com",
@@ -24,10 +24,21 @@
     "output_format": "mp3_44100_128",
     "chunk_chars": 1800,
     "language_code": "en",
-    "seed": 7
+    "seed": 7,
+    "engine": "kokoro"
   },
   "voice_names": {
     "SU": "Hope - Natural, Clear and Calm",
     "PRI": "Mark - Natural Conversations"
+  },
+  "kokoro": {
+    "lang_code": "a",
+    "voices": {
+      "SU": "af_heart",
+      "PRI": "am_michael"
+    },
+    "speed": 1.0,
+    "pause_same": 0.25,
+    "pause_switch": 0.45
   }
 }
