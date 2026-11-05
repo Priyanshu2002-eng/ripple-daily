@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Ripple Daily: episodes-src/<date>.json -> episodes/<date>.mp3 + feed.xml.
 Needs env ELEVENLABS_API_KEY and ffmpeg. Usage: build_episode.py <episodes-src/DATE.json>"""
-import json, os, re, subprocess, sys, tempfile, time, urllib.request, urllib.error, datetime as dt
+import json, os, re, subprocess, sys, tempfile, time, urllib.request, urllib.error, urllib.parse, datetime as dt
 from email.utils import format_datetime
 from xml.sax.saxutils import escape
 
@@ -22,6 +22,28 @@ def chunks(lines, limit):
             yield cur; cur, n = [], 0
         cur.append(ln); n += L
     if cur: yield cur
+
+def api(path, body=None):
+    req = urllib.request.Request("https://api.elevenlabs.io" + path, method="POST" if body is not None else "GET",
+          data=json.dumps(body).encode() if body is not None else None,
+          headers={"xi-api-key": os.environ["ELEVENLABS_API_KEY"], "Content-Type": "application/json"})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        return json.load(r)
+
+def ensure_voice(k):
+    """Library voices must be in the account's My Voices before the API can use them; add them if missing."""
+    vid = CFG["voices"][k]
+    try:
+        api(f"/v1/voices/{vid}"); return
+    except urllib.error.HTTPError as e:
+        if e.code not in (400, 404): sys.exit(f"ElevenLabs {e.code} checking voice {k}: {e.read().decode(errors='replace')[:300]}")
+    name = CFG.get("voice_names", {}).get(k, k)
+    q = urllib.parse.quote(name.split(" - ")[0])
+    found = [v for v in api(f"/v1/shared-voices?page_size=100&search={q}").get("voices", []) if v["voice_id"] == vid]
+    if not found: sys.exit(f"voice {k} ({vid}) not in your ElevenLabs voices or the public library")
+    r = api(f"/v1/voices/add/{found[0]['public_owner_id']}/{vid}", {"new_name": name})
+    CFG["voices"][k] = r.get("voice_id") or vid
+    print(f"added library voice {name} for {k}", flush=True)
 
 def tts(chunk, prev_ids):
     t = CFG["tts"]
@@ -100,6 +122,8 @@ def main(src):
     ep = json.load(open(src)); date = ep["date"]
     for k in ("SU", "PRI"):
         if not CFG["voices"].get(k): sys.exit(f"voice id for {k} missing in config.json")
+    if not os.environ.get("ELEVENLABS_API_KEY"): sys.exit("ELEVENLABS_API_KEY secret is empty: add it in repo Settings > Secrets and variables > Actions")
+    for k in ("SU", "PRI"): ensure_voice(k)
     out = os.path.join(ROOT, "episodes", f"ripple-daily-{date}.mp3")
     with tempfile.TemporaryDirectory() as td:
         parts, ids = [], []
