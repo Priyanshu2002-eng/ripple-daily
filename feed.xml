@@ -5,9 +5,9 @@
   <link>https://priyanshu2002-eng.github.io/ripple-daily/</link>
   <atom:link href="https://priyanshu2002-eng.github.io/ripple-daily/feed.xml" rel="self" type="application/rss+xml"/>
   <language>en-in</language>
-  <description>Ripple Daily is a 7-10 minute morning briefing on the 10 stories moving Indian markets, from the Ripple news desk. Two hosts, SU and Pri: one hot topic in depth, then nine stories rapid-fire, each ending with the stocks in focus. In English, every day before the market opens. Voices are AI-generated with open-source Kokoro voices. This is news, not investment advice; the hosts are not SEBI-registered advisers.</description>
+  <description>Ripple Daily is a 7-10 minute morning briefing on the 10 stories moving Indian markets, from the Ripple news desk. Two hosts, S and P: one hot topic in depth, then nine stories rapid-fire, each ending with the stocks in focus. In English, every day before the market opens. Voices are AI-generated with open-source Kokoro voices. This is news, not investment advice; the hosts are not SEBI-registered advisers.</description>
   <itunes:subtitle>India's markets in under 10 minutes, every morning</itunes:subtitle>
-  <itunes:summary>Ripple Daily is a 7-10 minute morning briefing on the 10 stories moving Indian markets, from the Ripple news desk. Two hosts, SU and Pri: one hot topic in depth, then nine stories rapid-fire, each ending with the stocks in focus. In English, every day before the market opens. Voices are AI-generated with open-source Kokoro voices. This is news, not investment advice; the hosts are not SEBI-registered advisers.</itunes:summary>
+  <itunes:summary>Ripple Daily is a 7-10 minute morning briefing on the 10 stories moving Indian markets, from the Ripple news desk. Two hosts, S and P: one hot topic in depth, then nine stories rapid-fire, each ending with the stocks in focus. In English, every day before the market opens. Voices are AI-generated with open-source Kokoro voices. This is news, not investment advice; the hosts are not SEBI-registered advisers.</itunes:summary>
   <itunes:author>Priyanshu Chandak</itunes:author>
   <itunes:owner>
     <itunes:name>Priyanshu Chandak</itunes:name>
@@ -35,10 +35,10 @@
 10. Dabur's profit rises 12% to 506 crore rupees on 5.5% volume growth, but margins slip (Business Today)
 
 From the Ripple news desk. Voices are AI-generated with open-source Kokoro voices. This is news, not investment advice; the hosts are not SEBI-registered advisers.</description>
-    <enclosure url="https://priyanshu2002-eng.github.io/ripple-daily/episodes/ripple-daily-2026-11-05.mp3" length="4511386" type="audio/mpeg"/>
+    <enclosure url="https://priyanshu2002-eng.github.io/ripple-daily/episodes/ripple-daily-2026-11-05.mp3" length="4505535" type="audio/mpeg"/>
     <guid isPermaLink="false">ripple-daily-2026-11-05</guid>
     <pubDate>Thu, 05 Nov 2026 08:30:00 +0530</pubDate>
-    <itunes:duration>564</itunes:duration>
+    <itunes:duration>563</itunes:duration>
     <itunes:episode>7</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
