@@ -120,6 +120,11 @@ def build_feed():
 
 def main(src):
     ep = json.load(open(src)); date = ep["date"]
+    # Keep show notes honest and numbering stable whatever the script writer put in.
+    ep["description"] = ep["description"].replace("Voices are AI-generated from the hosts' own recordings.",
+                                                  "Voices are AI-generated (ElevenLabs library voices Hope and Mark).")
+    srcs = sorted(f[:-5] for f in os.listdir(os.path.join(ROOT, "episodes-src")) if f.endswith(".json"))
+    if date in srcs: ep["episode"] = srcs.index(date) + 1
     for k in ("SU", "PRI"):
         if not CFG["voices"].get(k): sys.exit(f"voice id for {k} missing in config.json")
     if not os.environ.get("ELEVENLABS_API_KEY"): sys.exit("ELEVENLABS_API_KEY secret is empty: add it in repo Settings > Secrets and variables > Actions")
