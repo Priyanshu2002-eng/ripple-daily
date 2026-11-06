@@ -13,8 +13,8 @@
     <itunes:name>Ripple Stories</itunes:name>
     <itunes:email>priyanshuchandak23@gmail.com</itunes:email>
   </itunes:owner>
-  <itunes:image href="https://priyanshu2002-eng.github.io/ripple-daily/cover.jpg"/>
-  <image><url>https://priyanshu2002-eng.github.io/ripple-daily/cover.jpg</url><title>Ripple Daily</title><link>https://priyanshu2002-eng.github.io/ripple-daily/</link></image>
+  <itunes:image href="https://priyanshu2002-eng.github.io/ripple-daily/cover-r.jpg"/>
+  <image><url>https://priyanshu2002-eng.github.io/ripple-daily/cover-r.jpg</url><title>Ripple Daily</title><link>https://priyanshu2002-eng.github.io/ripple-daily/</link></image>
   <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
@@ -41,7 +41,7 @@ From the Ripple news desk. Voices are AI-generated with open-source Kokoro voice
     <itunes:duration>489</itunes:duration>
     <itunes:episode>8</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
-    <itunes:image href="https://priyanshu2002-eng.github.io/ripple-daily/cover.jpg"/>
+    <itunes:image href="https://priyanshu2002-eng.github.io/ripple-daily/cover-r.jpg"/>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
@@ -66,7 +66,7 @@ From the Ripple news desk. Voices are AI-generated with open-source Kokoro voice
     <itunes:duration>563</itunes:duration>
     <itunes:episode>7</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
-    <itunes:image href="https://priyanshu2002-eng.github.io/ripple-daily/cover.jpg"/>
+    <itunes:image href="https://priyanshu2002-eng.github.io/ripple-daily/cover-r.jpg"/>
     <itunes:explicit>false</itunes:explicit>
   </item>
 </channel>
