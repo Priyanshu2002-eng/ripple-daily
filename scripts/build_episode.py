@@ -117,6 +117,7 @@ def build_feed():
     <itunes:duration>{e['seconds']}</itunes:duration>
     <itunes:episode>{e['episode']}</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
+    <itunes:image href="{base}{s['cover']}"/>
     <itunes:explicit>{s['explicit']}</itunes:explicit>
   </item>""")
     owner = f"\n    <itunes:email>{escape(s['owner_email'])}</itunes:email>" if s.get("owner_email") else ""
