@@ -1,2 +1,3 @@
 episodes-src/*.tmp
 .DS_Store
+__pycache__/
