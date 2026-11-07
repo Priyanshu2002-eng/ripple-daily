@@ -1,0 +1,248 @@
+{
+ "date": "2026-11-07",
+ "episode": 9,
+ "title": "Week in Ripples, Sat 7 Nov: Nifty's best week since February 2021",
+ "description": "Hot topic: the Nifty and Sensex posted their best week since February 2021 as a seven-session rally lifted the Nifty above 25,000 on record foreign buying. Then: foreign flows, US payrolls, Asia's chip crash, oil, Wall Street, the rupee, Tata Steel, Hindalco and Muhurat trading.\n\n1. Sensex and Nifty post their best week since February 2021 as a seven-session rally lifts the Nifty above 25,000 (Business Standard)\n2. Foreign investors buy a record 45,960 crore rupees of Indian shares in a week as domestic funds sell a record 24,197 crore rupees (Business Standard)\n3. US payrolls jump 165,000 in October, nearly triple forecasts, lifting December Fed hike odds to about 77-85% (Yahoo Finance (Reuters))\n4. Asian chip stocks crash: Kospi halted after an 8% fall, Nikkei drops about 6%, SK Hynix falls 11.7% (Yahoo Finance (Fox Business))\n5. Oil posts its biggest weekly drop since 2022 on Iran peace hopes, with Brent settling flat at 98.32 dollars (Rigzone (Bloomberg))\n6. Wall Street steadies: Nasdaq gains 1.1% as AMD jumps 11%, but the S&P 500 still loses 2.7% for the week (Yahoo Finance (AP))\n7. Rupee logs its biggest one-day gain since 12 October, closing at about 93.9 per dollar (IANS)\n8. Tata Steel reports delayed September-quarter results on Saturday, alongside Divi's Labs, Tata Chemicals and HBL Engineering (PSU Connect)\n9. Hindalco's profit jumps 59% to 7,533 crore rupees as revenue rises 39% to 91,708 crore rupees (Kotak Neo)\n10. Diwali Muhurat trading runs on Sunday 8 Nov in a rare afternoon slot; markets shut on Tuesday 10 Nov (Outlook Money)\n\nFrom the Ripple news desk. Voices are AI-generated with open-source Kokoro voices. This is news, not investment advice; the hosts are not SEBI-registered advisers.",
+ "lines": [
+  {
+   "speaker": "PRI",
+   "text": "Good morning, this is Ripple Daily. I'm P."
+  },
+  {
+   "speaker": "SU",
+   "text": "And I'm S. Ten stories, under ten minutes."
+  },
+  {
+   "speaker": "PRI",
+   "text": "It's Saturday, so this is our Week in Ripples. The big one: India's best market week since February 2021."
+  },
+  {
+   "speaker": "PRI",
+   "text": "S, how big a week are we talking?"
+  },
+  {
+   "speaker": "SU",
+   "text": "The Nifty rose 8.57% for the week, and the Sensex 8.82%. That's the best week since February 2021."
+  },
+  {
+   "speaker": "SU",
+   "text": "On Friday alone, Dhanteras, the Sensex jumped 1,718 points to 81,028. The Nifty gained 2.01% to 25,030, a seventh straight gain."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Who moved?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Almost everyone. Only 4 of the 50 Nifty stocks fell on Friday. Banks led, with ICICI Bank up 4.75%."
+  },
+  {
+   "speaker": "SU",
+   "text": "Mahindra and Mahindra was the top Nifty gainer, up 5.1%. HDFC Bank led the index, with banks at an eight-month high."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Fine, but 10% in seven sessions. Isn't that stretched?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Now, why it matters. This rally is built on foreign buying, as money leaving the US AI trade rotates into India."
+  },
+  {
+   "speaker": "SU",
+   "text": "It takes the market into Sunday's Muhurat session and next week's CPI data with momentum, but yes, stretched."
+  },
+  {
+   "speaker": "PRI",
+   "text": "So what do we watch?"
+  },
+  {
+   "speaker": "SU",
+   "text": "The trigger: does the Nifty hold above 25,000 through Muhurat and Monday? A sharp reversal on profit-taking, or a weak CPI print, would test it."
+  },
+  {
+   "speaker": "SU",
+   "text": "Stocks in focus: HDFC Bank, ICICI Bank, Mahindra and Mahindra, and Reliance. Sentiment: positive."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Rapid fire. Story two: foreign investors set a record."
+  },
+  {
+   "speaker": "SU",
+   "text": "Foreign investors bought a record 45,960 crore rupees of Indian shares this week, including about 13,750 crore on Friday."
+  },
+  {
+   "speaker": "PRI",
+   "text": "And the domestic funds?"
+  },
+  {
+   "speaker": "SU",
+   "text": "They sold a record 24,197 crore for the week. And foreigners are still net sellers of about 2.72 lakh crore for the year."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: the rotation out of the US AI trade favours large banks and the rupee. Sentiment: mixed. Stocks in focus: HDFC Bank, ICICI Bank, Kotak Mahindra Bank, Axis Bank."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story three: the US jobs report that changed the Fed math."
+  },
+  {
+   "speaker": "SU",
+   "text": "US payrolls jumped 165,000 in October, against forecasts of about 59,000 to 70,000. Unemployment fell to 4.1%, and hourly pay rose 0.4% on the month."
+  },
+  {
+   "speaker": "PRI",
+   "text": "And the Fed?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Odds of a December hike rose to between 77% and 85%, depending on the source. The 10-year yield rose about 2 basis points to 4.86%."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: a likely Fed hike on 9 December keeps the dollar firm, a headwind for flows into India. Sentiment: negative. Stocks in focus: Infosys, TCS."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story four: Asia's chip stocks crash."
+  },
+  {
+   "speaker": "SU",
+   "text": "SK Hynix fell 11.7%, Samsung Electronics nearly 10%, and TSMC 8.5%. The Kospi fell more than 8% and triggered a temporary halt."
+  },
+  {
+   "speaker": "SU",
+   "text": "The Nikkei fell about 6% intraday, its worst day in eight months."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: the sell-off tests the AI-capex trade behind India's electronics names. Sentiment: negative. Stocks in focus: Netweb, Dixon."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story five: oil's biggest weekly drop since 2022."
+  },
+  {
+   "speaker": "SU",
+   "text": "Brent settled flat on Friday at 98.32 dollars, but front-month futures fell about 13.2% for the week."
+  },
+  {
+   "speaker": "PRI",
+   "text": "What's driving that?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Bloomberg reported US-Iran talks moving closer to a breakthrough. Saudi Arabia and the UAE have restored shipments, though Hormuz is not fully reopened."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: cheaper crude eases India's import bill, inflation and the rupee. Sentiment: positive. Stocks in focus: BPCL, Indian Oil, HPCL, IndiGo."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story six: Wall Street steadies. Sort of."
+  },
+  {
+   "speaker": "SU",
+   "text": "The Nasdaq rose 1.1% on Friday, as AMD jumped 11%. Intel gained 7.7% and Nvidia 2.8%."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Why only sort of?"
+  },
+  {
+   "speaker": "SU",
+   "text": "The S&P 500 still lost 2.7% for the week, its worst since June. The Nasdaq lost 3.4%."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: a partial rebound after Thursday's 5.5% Nasdaq fall eases the risk-off mood. Sentiment: mixed. What to watch Monday: whether US futures extend gains."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story seven: the rupee's best day in weeks."
+  },
+  {
+   "speaker": "SU",
+   "text": "The rupee rose 56 paise to 93.91 per dollar, its strongest close since 22 April, and about 1.2% higher for the week."
+  },
+  {
+   "speaker": "SU",
+   "text": "IANS reported the RBI buying dollars near 93.88 to temper the move."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: a firmer rupee lowers imported inflation but trims IT exporters' rupee earnings. Sentiment: mixed. Stocks in focus: Infosys, TCS, IndiGo."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story eight: a results Saturday."
+  },
+  {
+   "speaker": "SU",
+   "text": "Tata Steel reports its delayed September-quarter results today, after postponing from 27 October. Divi's Labs, Tata Chemicals and HBL Engineering also report."
+  },
+  {
+   "speaker": "PRI",
+   "text": "And Tata Steel shares?"
+  },
+  {
+   "speaker": "SU",
+   "text": "They were among Friday's gainers, going into the numbers."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: Tata Steel's Europe losses and Indian steel prices set the tone for metal stocks on Monday. Sentiment: neutral. Stocks in focus: Tata Steel, Divi's Labs, JSW Steel, Jindal Steel."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story nine: Hindalco's big quarter."
+  },
+  {
+   "speaker": "SU",
+   "text": "Hindalco's profit jumped 59% to 7,533 crore rupees, and revenue rose 39%. Novelis was the largest contributor."
+  },
+  {
+   "speaker": "PRI",
+   "text": "How did the stock take it?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Hindalco closed up 2.2% on Friday, at 958 rupees."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: strong aluminium earnings support metal stocks and help fund Novelis's expansion. Sentiment: positive. Stocks in focus: Hindalco, Nalco, Vedanta."
+  },
+  {
+   "speaker": "PRI",
+   "text": "And story ten: Diwali Muhurat trading, at an unusual hour."
+  },
+  {
+   "speaker": "SU",
+   "text": "NSE's Muhurat session runs tomorrow, Sunday 8 November, from 2:20 pm to 3:30 pm, breaking the usual evening slot."
+  },
+  {
+   "speaker": "SU",
+   "text": "Markets are then shut on Tuesday 10 November for Diwali Balipratipada, and again on 24 November for Guru Nanak Jayanti."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: a short, symbolic session and a mid-week holiday thin out trading in a CPI week. Sentiment: neutral. Stocks in focus: Titan, BSE, Kalyan Jewellers."
+  },
+  {
+   "speaker": "PRI",
+   "text": "What to watch this weekend: Tata Steel's results today, the Muhurat close on Sunday, and whether foreigners keep buying on Monday."
+  },
+  {
+   "speaker": "SU",
+   "text": "That's Ripple Daily. Full stories and sources are in the show notes. This is news, not investment advice. We're not SEBI-registered advisers."
+  },
+  {
+   "speaker": "PRI",
+   "text": "See you tomorrow morning."
+  }
+ ]
+}
