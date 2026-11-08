@@ -1,0 +1,252 @@
+{
+ "date": "2026-11-08",
+ "episode": 10,
+ "title": "Week Ahead, Sun 8 Nov: Tata Steel's profit rises 18% on India margins",
+ "description": "Hot topic: Tata Steel's profit rose 18% as Indian steel margins hit 25%, but the UK still loses money and net debt is up. Then: Muhurat trading, Hormuz, Korea's chip rout, Divi's Labs, US CPI, data-centre ballots, Saudi crude, Nifty valuations and Tata Chemicals.\n\n1. Tata Steel's profit rises 18% to 3,666 crore rupees as India margins hit 25%, while the UK still loses money (Business Standard)\n2. Muhurat trading runs 2:20-3:30 pm today, the first session of Samvat 2083, after seven straight Nifty gains (Business Today)\n3. Qatar floats a plan to reopen Hormuz as Trump confirms 'minor strikes' on Iran's Qeshm Island (The Independent (via Yahoo))\n4. Korea suspends its margin-collateral rule for three months after the Kospi's 11.7% weekly plunge (Seoul Economic Daily)\n5. Divi's Labs' profit jumps 64% to 1,127 crore rupees as revenue rises about 35% (Investywise (filing summary))\n6. US CPI on Tuesday is the next test after payrolls lift December Fed hike odds above 76% (Trading Economics)\n7. US voters back data-centre limits in 40 of 41 local ballots, adding a policy risk to the AI build-out (AI Weekly)\n8. Saudi Arabia cuts its Asian crude prices to a six-year low as Gulf shipments resume (Rigzone)\n9. Brokers urge caution after last week's rally as Motilal Oswal puts the Nifty at 17.5 times forward earnings (Business Today)\n10. Tata Chemicals swings to a September-quarter loss on weaker margins despite 7.7% revenue growth (Sahi)\n\nFrom the Ripple news desk. Voices are AI-generated with open-source Kokoro voices. This is news, not investment advice; the hosts are not SEBI-registered advisers.",
+ "lines": [
+  {
+   "speaker": "PRI",
+   "text": "Good morning, this is Ripple Daily. I'm P."
+  },
+  {
+   "speaker": "SU",
+   "text": "And I'm S. Ten stories, under ten minutes."
+  },
+  {
+   "speaker": "PRI",
+   "text": "It's Sunday, so this is our Week Ahead. And the big one: Tata Steel's results. India strong, Britain still losing money."
+  },
+  {
+   "speaker": "PRI",
+   "text": "S, Tata Steel reported on Saturday. What happened?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Profit attributable to owners rose 18.2% to 3,666 crore rupees. Revenue rose 11.5% to 65,436 crore rupees."
+  },
+  {
+   "speaker": "SU",
+   "text": "Consolidated EBITDA rose 14% from the June quarter, to 10,665 crore rupees."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Where did the money come from?"
+  },
+  {
+   "speaker": "SU",
+   "text": "India. EBITDA there was 17,790 rupees a tonne, a 25% margin, on higher Indian steel prices and volumes."
+  },
+  {
+   "speaker": "SU",
+   "text": "The UK is still the drag. It posted an EBITDA loss of 719 crore rupees."
+  },
+  {
+   "speaker": "PRI",
+   "text": "A profit beat, fine. But why should India care beyond one stock?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Now, why it matters. This beat comes from domestic pricing, which reads across to every Indian steelmaker, from JSW Steel to SAIL."
+  },
+  {
+   "speaker": "SU",
+   "text": "The catch is the balance sheet. Net debt rose to 91,423 crore rupees, about 2.4 times EBITDA."
+  },
+  {
+   "speaker": "PRI",
+   "text": "What do we watch?"
+  },
+  {
+   "speaker": "SU",
+   "text": "The trigger is Monday, the first full session to price this. Watch whether Tata Steel beats the Nifty and brokers lift FY27 estimates."
+  },
+  {
+   "speaker": "SU",
+   "text": "The risk is a fall on the higher debt and a weak UK outlook. Stocks in focus: Tata Steel, JSW Steel, Jindal Steel, SAIL. Sentiment: positive."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Rapid fire. Story two: Muhurat trading is this afternoon."
+  },
+  {
+   "speaker": "SU",
+   "text": "NSE and BSE hold the special Diwali session today, Sunday 8 November. Pre-open starts at 2:05 pm, and trading runs from 2:20 to 3:30 pm."
+  },
+  {
+   "speaker": "SU",
+   "text": "The Nifty enters at 25,030 after seven straight gains. It's the first session of Samvat 2083."
+  },
+  {
+   "speaker": "PRI",
+   "text": "And the rest of the week?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Monday is a normal session. Tuesday 10 November is a holiday for Diwali Balipratipada, and trading resumes on Wednesday."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: a thin, ceremonial session sets the tone for a holiday-shortened week with US and Indian inflation data. Sentiment: positive. Stocks in focus: HDFC Bank, ICICI Bank, Reliance."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story three: a Qatari plan to reopen Hormuz, and fresh strikes."
+  },
+  {
+   "speaker": "SU",
+   "text": "Under a Qatari proposal, the US would lift its port blockade and release some frozen assets in return for IAEA access. Hormuz would reopen on day two."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Is Iran on board?"
+  },
+  {
+   "speaker": "SU",
+   "text": "It sent a nuclear proposal via Qatar, but sets seven demands for further talks. Iranian media reported two missile strikes on Qeshm Island on Saturday."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: oil this week hangs on whether deal talk survives the strikes, driving India's import bill and the rupee. Sentiment: mixed. Stocks in focus: ONGC, BPCL, Indian Oil, IndiGo."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story four: Korea steps in after the Kospi's worst week."
+  },
+  {
+   "speaker": "SU",
+   "text": "The Kospi closed Friday at 5,059.69, down 6.02% on the day and 11.71% on the week."
+  },
+  {
+   "speaker": "SU",
+   "text": "Korea's finance minister suspended the 140% margin-loan collateral rule from 9 November, to curb forced selling. SK hynix fell 10.44% on Friday."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Why does Seoul matter to Dalal Street?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: the foreign money leaving Korea has been flowing into India, but a wider rout would hit risk appetite. Sentiment: negative. What to watch Monday: whether the Kospi stabilises."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story five: Divi's Labs has a big quarter."
+  },
+  {
+   "speaker": "SU",
+   "text": "Divi's Laboratories' profit jumped 64% to 1,127 crore rupees, as revenue rose about 35%."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Any caveat?"
+  },
+  {
+   "speaker": "SU",
+   "text": "The figures come from filing summaries; there's no newsroom report yet. It's a second straight quarter of 60%-plus growth."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: the beat tests whether the stock's rich valuation can stretch further on Monday. Sentiment: positive. Stocks in focus: Divi's Labs, Laurus Labs, Sun Pharma."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story six: US inflation on Tuesday, the week's big data test."
+  },
+  {
+   "speaker": "SU",
+   "text": "October CPI is due Tuesday. Consensus is 0.3% month on month for the headline, after 0.6%, and 0.2% for the core."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Why does it matter so much after the jobs report?"
+  },
+  {
+   "speaker": "SU",
+   "text": "After payrolls rose 165,000, CME FedWatch puts the odds of a December rate hike above 76%."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: a hot print would cement a December hike, lift the dollar and pressure foreign flows into India. Sentiment: negative. What to watch Monday: US yields ahead of the print."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story seven: American voters push back on data centres."
+  },
+  {
+   "speaker": "SU",
+   "text": "Local ballot measures restricting data centres passed in 40 of 41 cases in the 3 November midterms."
+  },
+  {
+   "speaker": "SU",
+   "text": "Texas Governor-elect Hinojosa pledged to suspend new data-centre approvals. Fear of AI regulation has fed a tech sell-off that cost the Nasdaq 3.4% last week."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: slower US approvals would hit the AI capex chain, including Indian suppliers riding the theme. Sentiment: negative. Stocks in focus: Netweb, Anant Raj."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story eight: Saudi Arabia cuts its crude prices for Asia."
+  },
+  {
+   "speaker": "SU",
+   "text": "Saudi Arabia cut its official selling prices for Asia to a six-year low, as it and the UAE restored Gulf shipments."
+  },
+  {
+   "speaker": "SU",
+   "text": "Brent settled at 98.32 dollars and WTI at 90.83 dollars on Friday."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: cheaper Saudi crude lowers costs for Indian refiners, which buy heavily from the Gulf. Sentiment: positive. Stocks in focus: Indian Oil, BPCL, HPCL, Reliance."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story nine: after the rally, brokers urge caution."
+  },
+  {
+   "speaker": "SU",
+   "text": "Motilal Oswal puts the Nifty at 17.5 times forward earnings, about 16% below its long-term average. Small caps carry a 25% premium."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Is the rally running out of road, then?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Religare's Ajit Mishra advises against chasing prices, with support at 24,200 to 24,500. Geojit counts 45,970 crore rupees of foreign buying in November."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: large caps still look cheaper than small caps, favouring the heavyweights foreigners are buying. Sentiment: mixed. Stocks in focus: HDFC Bank, ICICI Bank, SBI."
+  },
+  {
+   "speaker": "PRI",
+   "text": "And story ten: Tata Chemicals slips into the red."
+  },
+  {
+   "speaker": "SU",
+   "text": "Tata Chemicals' revenue rose 7.7% to 4,177 crore rupees, but it swung to a net loss as margins shrank. One summary puts EBITDA down 29%."
+  },
+  {
+   "speaker": "SU",
+   "text": "Reports differ on the size of the loss, likely because of exceptional items."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: soda-ash pricing remains the weak link in the Tata group's materials businesses. Sentiment: negative. Stocks in focus: Tata Chemicals, GNFC."
+  },
+  {
+   "speaker": "PRI",
+   "text": "What to watch today: Muhurat trading from 2:20 pm, then Tata Steel and Divi's on Monday, and US inflation on Tuesday."
+  },
+  {
+   "speaker": "SU",
+   "text": "That's Ripple Daily. Full stories and sources are in the show notes. This is news, not investment advice. We're not SEBI-registered advisers."
+  },
+  {
+   "speaker": "PRI",
+   "text": "See you tomorrow morning."
+  }
+ ]
+}
