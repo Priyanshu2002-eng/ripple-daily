@@ -1,0 +1,252 @@
+{
+ "date": "2026-11-13",
+ "episode": 13,
+ "title": "Fri 13 Nov: Inflation breaks the RBI's 6% ceiling",
+ "description": "Hot topic: India's retail inflation rose to 6.09% in October, breaking the RBI's 6% ceiling just after rate-sensitive stocks rallied. Then: banks, the rupee, realty, Bajaj Finance, Nvidia, oil, Brent, US yields and gold.\n\n1. India's retail inflation rises to 6.09% in October, a 24-month high above the RBI's 6% ceiling (ThePrint (PTI))\n2. Banks lead for a fourth session as Nifty Bank rises 1.2% and PSU lenders gain 1.4% (HDFC Sky; Yahoo Finance)\n3. Rupee falls 34 paise to 94.03 per dollar as the dollar index hits its highest since April 2025 (HDFC Sky; Yahoo Finance)\n4. Realty jumps 4.5% to lead the market just before the 6% inflation print (Yahoo Finance; The Open Press)\n5. Bajaj Finance jumps 3.4% as NBFCs lead the Nifty (Business Standard; HDFC Sky)\n6. Nvidia CEO Jensen Huang resigns; shares fall 4.3% as AMD and Broadcom gain more than 5% (WPTF (AP); TheStreet)\n7. Oil reverses higher on Gulf attacks after peace-talk hopes; Reliance edges up (Reuters via Nation Thailand; Yahoo Finance)\n8. Brent jumps 3.3% to 95.82 dollars as Houthis strike Saudi energy sites and Trump drops Iran deal talks (Reuters via Nation Thailand)\n9. US 10-year jumps back above 5% to 5.10% as Fed officials push for more hikes (Yahoo Finance; CNBC; TheStreet)\n10. Gold drops 2.2% below 3,950 dollars as the dollar hits a 19-month high (Yahoo Finance; Business Standard)\n\nFrom the Ripple news desk. Voices are AI-generated from the hosts' own recordings. This is news, not investment advice; the hosts are not SEBI-registered advisers.",
+ "lines": [
+  {
+   "speaker": "PRI",
+   "text": "Good morning, this is Ripple Daily. I'm Pri."
+  },
+  {
+   "speaker": "SU",
+   "text": "And I'm SU. Ten stories, under ten minutes."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Today's big one: India's inflation just broke the RBI's 6% ceiling. Friday is the market's first chance to react."
+  },
+  {
+   "speaker": "PRI",
+   "text": "SU, what happened?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Consumer inflation rose to 6.09% in October, from 5.54% in September. That's a 24-month high, and the first breach of the RBI's 6% upper limit since October 2024."
+  },
+  {
+   "speaker": "SU",
+   "text": "Food did the damage. Food inflation climbed to 8.94% from 7.74%, with onion prices up 116% and garlic up 61%."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Who moved before the number landed?"
+  },
+  {
+   "speaker": "SU",
+   "text": "The rate-sensitives, oddly enough. Realty jumped 4.5% on Thursday, Bajaj Finance rose 3.4%, and Nifty Bank gained 1.2% for a fourth straight session."
+  },
+  {
+   "speaker": "SU",
+   "text": "The Nifty itself rose 0.18% to 25,299. The inflation print came out after the close."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Why should India care? Isn't this just onions and garlic?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Now, why it matters. The RBI already raised the repo rate 25 basis points to 5.50% in October. A print above the ceiling makes a second hike in December more likely."
+  },
+  {
+   "speaker": "SU",
+   "text": "That means costlier home loans and funding, which weighs on banks, lenders and realty, the very stocks that rallied into the number."
+  },
+  {
+   "speaker": "PRI",
+   "text": "What should I watch?"
+  },
+  {
+   "speaker": "SU",
+   "text": "The RBI meets next on 2 to 4 December. Today, watch whether government bond yields rise and rate-sensitive sectors lag."
+  },
+  {
+   "speaker": "SU",
+   "text": "Stocks in focus: Bajaj Finance, DLF, HDFC Bank and SBI. Sentiment: negative."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Rapid fire. Story two: banks lead for a fourth straight session."
+  },
+  {
+   "speaker": "SU",
+   "text": "Nifty Bank closed at 61,518.50 on Thursday, up 1.19%, ahead of the Nifty's 0.18%. The PSU Bank index rose 1.4%, and SBI gained 2.4% to 1,086.50 rupees."
+  },
+  {
+   "speaker": "SU",
+   "text": "Foreign investors bought a provisional 7,831 crore rupees on the day, taking November buying to about 73,566 crore rupees."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Can banks keep leading after a hot inflation number?"
+  },
+  {
+   "speaker": "SU",
+   "text": "That's the test. Banks are where foreign money is going, so their relative strength shows whether that flow is still in charge."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: hot inflation now tests the foreign flow behind four sessions of bank leadership. Sentiment: mixed. Stocks in focus: SBI, HDFC Bank, ICICI Bank, Bank of Baroda."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story three: the rupee slips past 94 per dollar."
+  },
+  {
+   "speaker": "SU",
+   "text": "The rupee closed at 94.03 per dollar on Thursday, down 34 paise from 93.69, as the dollar index hit its highest since April 2025."
+  },
+  {
+   "speaker": "SU",
+   "text": "Overnight, the US 10-year rose to about 5.10% and Brent jumped 3.3%. Both are negatives for the rupee."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: a weaker rupee raises import costs and inflation risk, just as inflation breached the RBI's ceiling. Sentiment: negative. Stocks in focus: BPCL, IndiGo, TCS, Infosys."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story four: realty rallied right before the inflation shock."
+  },
+  {
+   "speaker": "SU",
+   "text": "The Nifty Realty index gained 4.5% on Thursday, the best sector, and DLF rose 3.6% to 769.30 rupees."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Bad timing?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Possibly. The 6.09% print raises the odds of another RBI hike in December, which would lift home-loan rates."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: realty is the most rate-sensitive sector, so Thursday's rally now has to absorb the shock. Sentiment: negative. Stocks in focus: DLF, Godrej Properties, Lodha, Prestige."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story five: Bajaj Finance jumps on a big fundraise."
+  },
+  {
+   "speaker": "SU",
+   "text": "Bajaj Finance rose 3.36% to 1,115 rupees, with Shriram Finance up 3.6%. It launched an 11,700 crore rupee QIP, about 1.25 billion dollars."
+  },
+  {
+   "speaker": "SU",
+   "text": "The indicative price is 1,025 rupees a share, a 5% discount."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: a large raise signals investor appetite for lenders, but rate hikes would squeeze NBFC margins. Sentiment: mixed. Stocks in focus: Bajaj Finance, Shriram Finance, Cholamandalam Finance."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story six: Nvidia's CEO Jensen Huang resigns."
+  },
+  {
+   "speaker": "SU",
+   "text": "Huang resigned on Thursday after a board investigation, and CFO Colette Kress was named interim CEO."
+  },
+  {
+   "speaker": "SU",
+   "text": "Nvidia fell as much as about 14% at the open and closed down 4.3%. AMD rose 5.9% and Broadcom 5.5%, while the Nasdaq slipped 0.4%."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Why does an American CEO exit matter here?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Nvidia sets the tone for AI spending. TCS closed down 1.2% at 2,442.40 rupees on Thursday, and Nvidia reports results on 17 November."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: a leadership shock could slow AI orders, with read-across to Indian IT and hardware. Sentiment: negative. Stocks in focus: TCS, Infosys, Netweb."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story seven: oil flips from peace hopes to Gulf attacks."
+  },
+  {
+   "speaker": "SU",
+   "text": "Oil fell in Asian hours on peace-talk hopes, then reversed after the Houthis claimed hits on Saudi energy sites and President Trump dropped the Iran deal."
+  },
+  {
+   "speaker": "SU",
+   "text": "Reliance rose 0.32% to 1,339.70 rupees on Thursday, while the Oil and Gas index fell 0.8%."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: higher crude helps upstream producers but hurts refiners and India's import bill. Sentiment: mixed. Stocks in focus: Reliance, ONGC, Oil India, BPCL."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story eight: Brent is back near 96 dollars."
+  },
+  {
+   "speaker": "SU",
+   "text": "Brent settled at 95.82 dollars a barrel, up 3.06 dollars or 3.3%, and WTI at 88.74 dollars, up 2.6%."
+  },
+  {
+   "speaker": "SU",
+   "text": "The Houthis said they hit a pumping station on Saudi Arabia's East-West pipeline, a Yanbu oil facility and an Aramco building in Riyadh."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Is that the whole picture?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Not quite. Iran's military said four tankers were hit in Hormuz, which Reuters could not verify. Both benchmarks were still about 2.5% lower for the week."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: a Gulf supply risk premium is back, feeding India's import bill and inflation. Sentiment: negative. Stocks in focus: ONGC, HPCL, BPCL, IndiGo."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story nine: the US 10-year jumps back above 5%."
+  },
+  {
+   "speaker": "SU",
+   "text": "The 10-year yield rose about 12 basis points to 5.10% on Thursday, catching up with the hot October inflation data after the Veterans Day holiday."
+  },
+  {
+   "speaker": "SU",
+   "text": "A 25 billion dollar 30-year auction tailed at 5.441%, with weaker foreign demand. Cleveland Fed's Hammack called for more tightening."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: higher US yields strengthen the dollar and pull money from emerging markets like India. Sentiment: negative."
+  },
+  {
+   "speaker": "PRI",
+   "text": "And story ten: gold drops below 3,950 dollars."
+  },
+  {
+   "speaker": "SU",
+   "text": "Gold futures fell 2.2% to about 3,912 dollars an ounce. Spot gold fell 2.7% and silver 2.8%, as the dollar hit a 19-month high."
+  },
+  {
+   "speaker": "SU",
+   "text": "That came despite the Gulf attacks that lifted oil."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: gold is losing its safe-haven bid to rising real yields, which matters for Indian jewellers and gold lenders. Sentiment: negative. Stocks in focus: Muthoot Finance, Manappuram, Titan, Kalyan Jewellers."
+  },
+  {
+   "speaker": "PRI",
+   "text": "What to watch today: how rate-sensitive stocks open after the 6.09% inflation print, and whether foreign buying holds."
+  },
+  {
+   "speaker": "SU",
+   "text": "That's Ripple Daily. Full stories and sources are in the show notes. This is news, not investment advice. We're not SEBI-registered advisers."
+  },
+  {
+   "speaker": "PRI",
+   "text": "See you tomorrow morning."
+  }
+ ]
+}
