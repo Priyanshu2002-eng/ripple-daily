@@ -1,0 +1,256 @@
+{
+ "date": "2026-11-14",
+ "episode": 14,
+ "title": "Week in Ripples, Sat 14 Nov: Nvidia's Jensen Huang resigns as CEO",
+ "description": "Week in Ripples: Nvidia's Jensen Huang resigned as CEO, dragging AI-chip stocks and the Nasdaq lower four days before results. Then: the Nifty's inflation hit, US yields, Tata Motors PV, foreign buying, the rupee, oil, gold, Anthropic's IPO and Hitachi Energy India.\n\n1. Nvidia's Jensen Huang resigns as CEO; Nvidia falls 3.1%, AMD 8.6% and Broadcom 5.2% as the Nasdaq drops 0.9% (TheStreet; Eurasia Business News; Yahoo Finance)\n2. Hot 6.09% inflation snaps the Nifty's run: Nifty falls 0.61% to 25,144 as realty, autos and metals lead losses (Upstox market wrap; HDFC Sky)\n3. US 10-year climbs to about 5.15% as annual PPI hits 6.5% and a December Fed hike is fully priced (Charles Schwab; Eurasia Business News; Yahoo Finance)\n4. Tata Motors PV posts a ₹5,531 crore loss on ₹6,738 crore one-time charges; JLR cuts its margin guidance (Business Standard)\n5. Foreign investors buy ₹5,737 crore on Friday, taking November net buying to about ₹79,300 crore (Tapetide (NSE provisional data); Liquide weekly review)\n6. Rupee weakens 21 paise to 94.24 per dollar as the dollar index holds near a 19-month high (HDFC Sky; Yahoo Finance)\n7. Brent settles flat at $95.84 after Thursday's jump, a second weekly fall; WTI ends at $88.56 (Eurasia Business News; TheStreet)\n8. Gold steadies near $3,888 after a 2–3% Thursday drop; down about 14% in six months (Yahoo Finance; Charles Schwab)\n9. Anthropic's IPO is set to price at $70–78 a share, valuing it near $1.3 trillion, with trading expected Thursday (ABC7; Eurasia Business News)\n10. Hitachi Energy India jumps 10.7% to ₹31,595 after results show 64% revenue growth (Yahoo Finance; Upstox results blog)\n\nFrom the Ripple news desk. Voices are AI-generated from the hosts' own recordings. This is news, not investment advice; the hosts are not SEBI-registered advisers.",
+ "lines": [
+  {
+   "speaker": "PRI",
+   "text": "Good morning, this is Ripple Daily. I'm Pri."
+  },
+  {
+   "speaker": "SU",
+   "text": "And I'm SU. Ten stories, under ten minutes."
+  },
+  {
+   "speaker": "PRI",
+   "text": "It's Saturday, so this is our Week in Ripples. The big one: Nvidia's Jensen Huang has resigned as CEO."
+  },
+  {
+   "speaker": "PRI",
+   "text": "SU, what happened?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Jensen Huang stepped down after 33 years, following reports about his relationships, including with an executive at a Singapore buyer of Nvidia chips."
+  },
+  {
+   "speaker": "SU",
+   "text": "That buyer, Megaspeed, bought over 4.8 billion dollars of Nvidia chips. CFO Colette Kress is interim CEO."
+  },
+  {
+   "speaker": "SU",
+   "text": "And the Senate Banking Committee has asked Huang to testify on 3 December."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Who moved?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Nvidia fell 3.1% on Friday to 162.85 dollars, and about 12.75% for the week. AMD fell 8.6% and Broadcom 5.2%."
+  },
+  {
+   "speaker": "SU",
+   "text": "The Nasdaq lost 0.91% to 25,136."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Isn't a CEO leaving a boardroom story, not a market story? Why should India care?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Now, why it matters. Nvidia is the AI bellwether, and this leadership doubt lands days before its results."
+  },
+  {
+   "speaker": "SU",
+   "text": "It sets the tone for every AI-hardware stock, including Netweb here at home, an Indian AI-server maker built on Nvidia GPUs."
+  },
+  {
+   "speaker": "PRI",
+   "text": "So what do we watch?"
+  },
+  {
+   "speaker": "SU",
+   "text": "The trigger: a clear succession plan and strong guidance at the results. If Nvidia keeps falling into them, watch whether chip peers follow."
+  },
+  {
+   "speaker": "SU",
+   "text": "Stocks in focus: Netweb. Sentiment: negative."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Rapid fire. Story two: hot inflation snaps the Nifty's run."
+  },
+  {
+   "speaker": "SU",
+   "text": "The Nifty fell 0.61% on Friday to 25,144, and the Sensex 0.39% to 81,592. It was the first session after October inflation of 6.09%."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Who took the hit?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Realty, autos and metals led the losses. 38 of the 50 Nifty stocks fell, and Shriram Finance was the top loser, down 3.37%."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: breaching the RBI's 6% ceiling puts a rate hike on the table for the 4 December policy. Sentiment: negative. Stocks in focus: Shriram Finance, DLF, HDFC Bank."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story three: US yields climb again."
+  },
+  {
+   "speaker": "SU",
+   "text": "US producer prices rose 6.5% on the year in October, the most since November 2022. Core was 5.0%."
+  },
+  {
+   "speaker": "SU",
+   "text": "The 10-year yield rose about 5 basis points to roughly 5.15%."
+  },
+  {
+   "speaker": "PRI",
+   "text": "And the Fed?"
+  },
+  {
+   "speaker": "SU",
+   "text": "CME FedWatch shows 100% odds of at least a quarter-point hike in December, and about 15% odds of a half point."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: US yields above 5% tighten money for emerging markets and pressure the rupee. Sentiment: negative. What to watch Monday: whether yields hold above 5.1%."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story four: a big loss at Tata Motors Passenger Vehicles."
+  },
+  {
+   "speaker": "SU",
+   "text": "It posted a September-quarter loss of 5,531 crore rupees, after one-time charges of 6,738 crore. Revenue still rose 34% to 96,920 crore."
+  },
+  {
+   "speaker": "PRI",
+   "text": "And JLR?"
+  },
+  {
+   "speaker": "SU",
+   "text": "JLR revenue rose 20.3% to 5.89 billion pounds, but it cut its full-year margin guidance to 2 to 3%, with about 1.25 billion pounds of cash outflow."
+  },
+  {
+   "speaker": "SU",
+   "text": "The stock had already fallen 3.31% to 287.40 rupees on Friday."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: JLR is the group's main profit engine, so expectations for a Nifty auto heavyweight reset. Sentiment: negative. Stocks in focus: Tata Motors Passenger Vehicles, Eicher Motors."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story five: foreign investors keep buying."
+  },
+  {
+   "speaker": "SU",
+   "text": "Foreign investors bought a net 5,737 crore rupees of Indian shares on Friday, while domestic funds sold 2,254 crore."
+  },
+  {
+   "speaker": "SU",
+   "text": "Over 10 November sessions, foreigners have bought about 79,300 crore net. For the week, the Nifty rose 0.63% and Nifty Bank 3.71%."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: record foreign buying is the main support as inflation and yields turn against the market. Sentiment: positive. Stocks in focus: HDFC Bank, ICICI Bank, SBI."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story six: the rupee slips again."
+  },
+  {
+   "speaker": "SU",
+   "text": "The rupee closed at 94.24 per dollar on Friday, 21 paise weaker, as the dollar index rose to about 103.4."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Even with all that foreign money coming in?"
+  },
+  {
+   "speaker": "SU",
+   "text": "Yes. The strong dollar and Brent near 96 dollars outweighed heavy foreign equity inflows."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: a weaker rupee raises import costs just as inflation breaches the RBI's ceiling. Sentiment: negative. Stocks in focus: IndiGo, TCS, Infosys."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story seven: oil goes quiet."
+  },
+  {
+   "speaker": "SU",
+   "text": "Brent settled at 95.84 dollars on Friday, up 2 cents, and WTI at 88.56 dollars. Both posted a second straight weekly fall."
+  },
+  {
+   "speaker": "PRI",
+   "text": "What are traders weighing?"
+  },
+  {
+   "speaker": "SU",
+   "text": "The US blockade of Iran, against a forecast fourth-quarter surplus and a 4.7 million barrel rise in US crude stocks."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: Brent near 96 dollars keeps India's fuel-subsidy and inflation risk high into the RBI meeting. Sentiment: mixed. Stocks in focus: ONGC, BPCL."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story eight: gold catches its breath."
+  },
+  {
+   "speaker": "SU",
+   "text": "Gold futures settled at about 3,888 dollars on Friday, after Thursday's steep fall to the lowest close since late September 2025."
+  },
+  {
+   "speaker": "SU",
+   "text": "Gold is now down about 14.5% over six months."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: cheaper gold eases India's import bill but weighs on jewellers' inventory gains. Sentiment: mixed. Stocks in focus: Titan, Kalyan Jewellers."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story nine: Anthropic's giant IPO."
+  },
+  {
+   "speaker": "SU",
+   "text": "Anthropic is offering 825 million shares at 70 to 78 dollars each, under the ticker ANT. That values it at about 1.3 to 1.4 trillion dollars."
+  },
+  {
+   "speaker": "SU",
+   "text": "Reports cited by the Wall Street Journal expect trading to begin on Thursday, 19 November, though final pricing could differ."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: the largest listing on record will test how much fresh money is left for AI. Sentiment: neutral. What to watch Monday: where demand lands in the price range."
+  },
+  {
+   "speaker": "PRI",
+   "text": "Story ten: Hitachi Energy India's big jump."
+  },
+  {
+   "speaker": "SU",
+   "text": "Hitachi Energy India rose 10.7% to 31,595 rupees on Friday, after results showed revenue up 64% and profit up 21% on grid demand."
+  },
+  {
+   "speaker": "SU",
+   "text": "ABB India gained 1.9% ahead of its own numbers."
+  },
+  {
+   "speaker": "SU",
+   "text": "Why it matters: investors still pay up for grid and power-equipment growth despite hot inflation. Sentiment: positive. Stocks in focus: Hitachi Energy India, ABB India, Siemens."
+  },
+  {
+   "speaker": "PRI",
+   "text": "What to watch Monday: Nvidia's succession news, US yields above 5.1%, and whether foreign buying holds."
+  },
+  {
+   "speaker": "SU",
+   "text": "That's Ripple Daily. Full stories and sources are in the show notes. This is news, not investment advice. We're not SEBI-registered advisers."
+  },
+  {
+   "speaker": "PRI",
+   "text": "See you tomorrow morning."
+  }
+ ]
+}
